@@ -1,3 +1,7 @@
+# May contain Discord token
+config.json
+.env
+
 # Logs
 logs
 *.log

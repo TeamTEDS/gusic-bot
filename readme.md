@@ -1,0 +1,9 @@
+# Gusic Bot
+
+.env template:
+
+```.env
+CLIENT_TOKEN = Your bot token
+CLIENT_ID = Your bot ID
+MONGODB_URI = Your mongodb URI string
+```
